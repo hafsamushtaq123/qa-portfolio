@@ -1,26 +1,47 @@
 # QA Portfolio
 
-Hi, I'm Hafsa Mushtaq.
+Hi, I'm **Hafsa Mushtaq** — a Software Quality Assurance Engineer with experience in manual and automation testing of web applications.
 
-Software Quality Assurance Engineer with experience in:
+I focus on ensuring software quality by identifying bugs, improving usability, and validating functionality through structured testing approaches.
 
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Regression Testing
-- Playwright Automation
+---
 
-## Portfolio Contents
+## 🔹 Skills
+- Manual Testing (Functional, UI/UX, Regression Testing)
+- Test Case Design & Execution
+- Bug Reporting with clear reproduction steps
+- Basic Automation Testing using Playwright
 
-### Test Plans
-Testing strategy and scope documents.
+---
 
-### Test Cases
-Detailed test scenarios and execution steps.
+## 🔹 Portfolio Contents
 
-### Bug Reports
-Sample defects with screenshots.
+### 📄 Test Plans
+Testing strategy, scope, and approach documents used for planning QA activities.
 
-### Automation
-Playwright automation scripts.
+### 🧪 Test Cases
+Detailed test scenarios including steps, preconditions, and expected results.
 
+### 🐞 Bug Reports
+Well-documented defects with severity, steps to reproduce, expected vs actual results, and screenshots.
+
+### 🤖 Automation
+Basic Playwright automation scripts demonstrating automated test execution.
+
+---
+
+## 🔹 Tools & Technologies
+- Playwright
+- GitHub
+- Excel / Google Sheets
+- Chrome Browser Testing
+
+---
+
+## 🎯 Objective
+To apply structured QA testing methods to ensure high-quality, reliable, and user-friendly web applications.
+
+---
+
+## 📌 Note
+This repository contains sample QA work based on e-commerce web application testing (SauceDemo).
