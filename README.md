@@ -31,12 +31,12 @@ Basic Playwright automation scripts demonstrating automated test execution.
 ---
 
 ## 🔹 Tools & Technologies
-- Playwright
+- Playwright (Automation Testing)
 - Postman (API Testing)
 - Snagit (Bug Screenshots & Annotations)
-- Zoho Projects (Test/Project Management)
+- Zoho Projects (Bug Tracking/Project Management)
 - Cross-browser Testing (Chrome, Edge, Firefox)
-- Excel / Google Sheets
+- Excel / Google Sheets (Test Case Design & Documentation)
 
 ---
 
