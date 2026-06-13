@@ -1,42 +1,42 @@
-# QA Portfolio
+# 🧪 QA Portfolio
 
-Hi, I'm **Hafsa Mushtaq** — a Software Quality Assurance Engineer with experience in manual and automation testing of web applications.
+Hi, I’m **Hafsa Mushtaq**, a Software Quality Assurance Engineer with experience in manual and basic automation testing of web applications.
 
-I focus on ensuring software quality by identifying bugs, improving usability, and validating functionality through structured testing approaches.
+I focus on identifying defects, validating functionality, and verifying UI behavior using structured QA processes.
 
 ---
 
 ## 🔹 Skills
-- Manual Testing (Functional, UI/UX, Regression Testing)
+- Manual Testing (Functional, UI/UX, Regression)
 - Test Case Design & Execution
-- Bug Reporting with clear reproduction steps
+- Bug Reporting (clear steps, expected vs actual results)
 - Basic Automation Testing using Playwright
+- Cross-browser Testing (Chrome, Edge, Firefox)
 
 ---
 
 ## 🔹 Portfolio Contents
 
 ### 📄 Test Plans
-Testing strategy, scope, and approach documents used for planning QA activities.
+Test strategy and scope defining QA approach and testing coverage.
 
 ### 🧪 Test Cases
-Detailed test scenarios including steps, preconditions, and expected results.
+Step-by-step test scenarios with expected results and preconditions.
 
 ### 🐞 Bug Reports
-Well-documented defects with severity, steps to reproduce, expected vs actual results, and screenshots.
+Defects documented with reproduction steps, severity, and evidence.
 
-### 🤖 Automation Project
-Playwright automation framework for SauceDemo including login, cart, and checkout flows using Page Object Model.
+### 🤖 Automation (Playwright)
+UI automation for SauceDemo covering:
+- Login
+- Cart operations
+- Checkout flow  
+Using Page Object Model (POM).
 
 ---
 
-## 🔹 Tools & Technologies
-- Playwright (Automation Testing)
-- Postman (API Testing)
-- Snagit (Bug Screenshots & Annotations)
-- Zoho Projects (Bug Tracking/Project Management)
-- Cross-browser Testing (Chrome, Edge, Firefox)
-- Excel / Google Sheets (Test Case Design & Documentation)
+## 🛠 Tools
+Playwright, Postman, Snagit, Excel/Google Sheets, Zoho Projects, Cross-browser Testing
 
 ---
 
