@@ -24,7 +24,7 @@ Test strategy and scope defining QA approach and testing coverage.
 Step-by-step test scenarios with expected results and preconditions.
 
 ### 🐞 Bug Reports
-Defects documented with reproduction steps, severity, and evidence.
+Defects documented with reproduction steps, severity, expected vs actual results, and evidence.
 
 ### 🤖 Automation (Playwright)
 UI automation for SauceDemo covering:
