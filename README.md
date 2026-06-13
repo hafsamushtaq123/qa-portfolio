@@ -25,8 +25,8 @@ Detailed test scenarios including steps, preconditions, and expected results.
 ### 🐞 Bug Reports
 Well-documented defects with severity, steps to reproduce, expected vs actual results, and screenshots.
 
-### 🤖 Automation
-Basic Playwright automation scripts demonstrating automated test execution.
+### 🤖 Automation Project
+Playwright automation framework for SauceDemo including login, cart, and checkout flows using Page Object Model.
 
 ---
 
