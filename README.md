@@ -36,7 +36,11 @@ Using Page Object Model (POM).
 ---
 
 ## 🛠 Tools
-Playwright, Postman, Snagit, Excel/Google Sheets, Zoho Projects, Cross-browser Testing
+- Playwright
+- Postman
+- Snagit
+- Excel/Google Sheets
+- Zoho Projects
 
 ---
 
